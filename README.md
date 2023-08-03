@@ -274,7 +274,7 @@ Ahora te toca a ti. Vas a recibir datos de otros sensores del celular.
 
 # Ejercicio 8
 
-Crea una interfaz de usuario, no uses la Consola del editor de Unity para que visialices la información recibida. 
+Crea una interfaz de usuario, no uses la Consola del editor de Unity para que visualices la información recibida. 
 
 
 
