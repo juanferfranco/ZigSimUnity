@@ -11,7 +11,7 @@ La idea de esta práctica es que aprendas a integrar la aplicación móvil Zig S
 
 ## Ejercicio 1
 
-Dale una mirada al sitio web de la aplicación [Zig Sim](https://1-10.github.io/zigsim/). La idea de este ejercicio es que familiarices con el sitio y el tipo de documentación que ofrece.
+Dale una mirada al sitio web de la aplicación [Zig Sim](https://1-10.github.io/zigsim/). La idea de este ejercicio es que te familiarices con el sitio y el tipo de documentación que ofrece.
 
 ## Ejercicio 2
 
