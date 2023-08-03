@@ -61,7 +61,7 @@ Luego de apagar el Firewall:
 
 <img width="317" alt="image" src="https://github.com/juanferfranco/ZigSimUnity/assets/2473101/4a677503-49fd-4095-ae83-926f43d2419a">
 
-La interfaz de usuario de ScriptCommunicator se verá algo así:
+La interfaz de usuario de ScriptCommunicator se verá similar a esta imagen:
 
 <img width="267" alt="image" src="https://github.com/juanferfranco/ZigSimUnity/assets/2473101/0e35a204-493c-4ad7-89b5-7403cb75085c">
 
