@@ -70,13 +70,13 @@ La interfaz de usuario de ScriptCommunicator se verá similar a esta imagen:
 * Ahora abre Zig Sim y en los Settings configura:
 
   * PROTOCOL: UDP
-  * IP ADDRESS: LA TU PC (recuerda, la IP de tu interfaz de red inalámbrica conectada a la red o punto de acceso creado en el celular).
+  * IP ADDRESS: LA DEL PC (recuerda, la IP de tu interfaz de red inalámbrica conectada a la red o punto de acceso creado en el celular).
   * PORT NUMBER: el mismo que colocaste en own port.
   * MESSAGE FORMAT: JSON
   * MESSAGE RATE (PER SEC): 1
 
 * En el menú Sensor de Zig Sim habilita solo el sensor ACCEL (verifica que solo este tenga la palomita o la marca de check).
-* Por último, selecciona Start en Zig Sim. Si todo está bien configurado deberás comenzar a recir cada segundo un mensaje en formato JSON en ScriptCommunicator.
+* Por último, selecciona Start en Zig Sim. Si todo está bien configurado deberás comenzar a recir en ScriptCommunicator un mensaje en formato JSON cada segundo.
 
 <img width="755" alt="image" src="https://github.com/juanferfranco/ZigSimUnity/assets/2473101/6c1cb48e-4b83-465f-ac64-2f8e4b80281e">
 
