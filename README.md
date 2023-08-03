@@ -65,7 +65,7 @@ La interfaz de usuario de ScriptCommunicator se verá similar a esta imagen:
 
 <img width="267" alt="image" src="https://github.com/juanferfranco/ZigSimUnity/assets/2473101/0e35a204-493c-4ad7-89b5-7403cb75085c">
 
-* Observa que en la imagen está seleccionada la pestaña UTF8, de no ser así en los settings puedes habilitar esta opción en la pestaña console options.
+* Observa que en la imagen está seleccionada la pestaña UTF8. Si no ves esta pestaña, en los settings/console options puedes habilitarla.
 
 * Ahora abre Zig Sim y en los Settings configura:
 
